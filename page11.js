@@ -19,8 +19,7 @@ var users = [
 // この下にコードを書いてください
 
 // 2人目の名前をコンソールに出力してください
-console.log(users[1].name);
-
+console.log("2人目の名前：" + users[1].name);
 
 // 3人目の国籍をコンソールに出力してください
-console.log(users[2].nationality);
+console.log("3人目の国籍：" + users[2].nationality);
